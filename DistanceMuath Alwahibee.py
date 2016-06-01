@@ -1,5 +1,5 @@
 print("CSC 122-W1 - Program #1");
-print("By <Student Muath Alwahibee> \n<due May 26>")
+print("By <Student Muath Alwahibee> \n<due June 15th>")
 
 #Get the speed 
 speed = int(input("\nWhat is the speed of the vehicale in mph? "))
